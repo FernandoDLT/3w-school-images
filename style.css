@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    height: 124px;
+    width: 142px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
